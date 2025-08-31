@@ -93,12 +93,12 @@ Developed sentiment classification model using **Twitter data** and stratified k
 ## 🌟 Beyond the Code
 
 When I'm not diving deep into data, you can find me:
-- 🏌️‍♀️ On the golf course (former varsity player!)
-- 🏎️ Following Formula 1 races
-- 🧘‍♀️ Practicing yoga and meditation
+- 🧘‍♀️ Practicing pilates, yoga and meditation
 - 🍳 Experimenting with new recipes
 - 🎥 Creating videography content
-- 🌱 Advocating for environmental wellness
+- ✈️ Exploring the world, other cultures and making new friends one country at a time
+- 🏌️‍♀️ On the golf course (former varsity player!)
+- 🏎️ Following Formula 1 races
 
 ## 📫 Let's Connect!
 
@@ -112,4 +112,4 @@ I'm always excited to collaborate on innovative data science projects and discus
 
 *"Turning data into insights, insights into impact."*
 
-⭐ **Fun Fact**: I was a THON 2023 DJ Captain at Penn State and love combining my technical skills with creative pursuits!
+⭐ **Fun Fact**: I auditied to be a Pure Bar instructor in manhatten the first week of 2025 and absolutely failed it. But I will keep on pursuing that dream this year!
