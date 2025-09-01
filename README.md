@@ -1,4 +1,4 @@
-# Hi there, I'm Mehak Juneja! 👋
+# Hey there, I'm Mehak Juneja! 
 
 ## 🚀 About Me
 
@@ -53,9 +53,8 @@ Hosted quarterly firmwide forums bringing together industry experts, directors, 
 ## 🛠️ Technical Arsenal
 
 ### **Languages & Frameworks**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+
+
 
 ### **ML & AI Tools**
 - **Libraries**: Scikit-learn, Pandas, NumPy, PySpark
@@ -74,7 +73,8 @@ Hosted quarterly firmwide forums bringing together industry experts, directors, 
 - **Integration**: MuleSoft APIs
 
 ## 🏆 Notable Projects
-
+### 💳 Movie Recommendation System
+Engineered hybrid movie **recommendation system using Content-Based Filtering**, Collaborative Filtering, and TF-IDF algorithms in Python/Scikit-learn, **achieving 98% recommendation accuracy** while processing 10K+ movie metadata points and **reducing user search time by 75%** through intelligent filtering and real-time personalization
 ### 💳 Credit Card Default Prediction
 Built classification model using **KNN** and feature engineering on Taiwanese credit card data. Identified key risk indicators enabling **98% prevention** of major POS losses through proactive risk-based pricing.
 
