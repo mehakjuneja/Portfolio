@@ -73,7 +73,7 @@ Hosted quarterly firmwide forums bringing together industry experts, directors, 
 - **Integration**: MuleSoft APIs
 
 ## 🏆 Notable Projects
-### 💳 Movie Recommendation System
+### 🎬 Movie Recommendation System
 Engineered hybrid movie **recommendation system using Content-Based Filtering**, Collaborative Filtering, and TF-IDF algorithms in Python/Scikit-learn, **achieving 98% recommendation accuracy** while processing 10K+ movie metadata points and **reducing user search time by 75%** through intelligent filtering and real-time personalization
 ### 💳 Credit Card Default Prediction
 Built classification model using **KNN** and feature engineering on Taiwanese credit card data. Identified key risk indicators enabling **98% prevention** of major POS losses through proactive risk-based pricing.
