@@ -1,6 +1,5 @@
-# Hey there, I'm Mehak Juneja! 
 
-## 🚀 About Me
+## 🚀 About Me  
 
 I'm a passionate **Data Scientist** and **AI Practitioner** based in New York, currently working at PwC's Cloud, Engineering, Data & AI Practice. I love transforming complex data challenges into actionable business solutions and building intelligent systems that make a real impact.
 
